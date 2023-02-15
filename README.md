@@ -1,4 +1,4 @@
-# Actividad2
+# Actividad2 Rafael Moreno 28467527
 
 Importante:
 Para que funcione hacer una base de datos en phpmyadmin con lo siguiente: <br>
